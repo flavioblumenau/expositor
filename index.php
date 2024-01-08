@@ -1,7 +1,7 @@
 <?php
 
 // O objetivo desse script é buscar na pasta arquivos htm com formato de referencia bíblica ex: Lev 1:10.htm
-// Uma honra aos tres maiores expositores bíblicos! Veja a linha 271. 
+// Uma honra aos tres maiores expositores bíblicos! Veja a linha 260 onde carrega-se cada arquivo htm encontrado para exibição na tela. 
 // Um sistema de apresentação de comentários bíblicos salvos em html
 
 $dados = $_POST;
